@@ -1,4 +1,5 @@
 # JavaScript-OOP
+<<<<<<< HEAD
 《JavaScript面向对象编程指南》读后知识点整理。
 《JavaScript面向对象编程指南》作者：Stoyan Stefanov
 
@@ -204,3 +205,6 @@ DOM  204
 附录B  内建函数  276
 附录C  内建对象  279
 附录D  正则表达式  305
+=======
+JavaScript面向对象编程指南
+>>>>>>> origin/master
